@@ -1,0 +1,46 @@
+{
+  "styles": [
+    {
+      "thumbnail": "https://files.catbox.moe/vaobv5.png",
+      "name": "Rain",
+      "prompt": "a cinematic side-profile portrait of the person from the uploaded image standing in heavy rainfall at night. The subject should be looking slightly upwards with eyes closed, wearing a wet white shirt. Rain droplets should be visible falling around and bouncing off the face and hair. Lighting should be dramatic and from the side, with a cool bluish tone highlighting the raindrops and wet texture. Background should be blurred and dark to make the subject the main focus. Ultra realistic, high quality, 8K resolution, cinematic lighting, moody atmosphere, professional photography style.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/4asvsu.png",
+      "name": "Lipsync",
+      "prompt": "Generate a video from the given portrait photo. The character must lip-sync naturally and accurately to the audio of “You’re My Heart, You’re My Soul” by Modern Talking. Keep the original identity, facial features, hairstyle, clothing, and background exactly as in the input image. Mouth movements must match the lyrics and rhythm of the song. Add subtle facial micro-expressions, natural blinking, and slight head tilts for realism. Video style: talking-head, static portrait, clean studio look.",
+      "order": 2
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/ysq2ka.png",
+      "name": "Restore old photos",
+      "prompt": "Create a cinematic promotional video demonstrating the process of restoring old photos. Start with a sequence of faded, damaged, black-and-white photos (with scratches, tears, and discoloration). Gradually show them being enhanced: colors return, details sharpen, scratches fade away, and the image transforms into a vivid, high-quality modern version. Use smooth transitions (morphing, dissolve, light sweeps) to emphasize the before/after effect. Style: emotional, nostalgic yet modern. Lighting: warm and soft to evoke memories.",
+      "order": 3
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/jm0ai6.png",
+      "name": "Growup",
+      "prompt": "Create a cinematic time-lapse video showing the life journey of one person growing up from childhood to adulthood. Start with a baby crawling, then smoothly transition to a child learning to walk, a school kid in uniform with a backpack, a teenager hanging out with friends, a young adult graduating in cap and gown, and finally an adult confidently standing in professional attire. Each stage should blend seamlessly with morphing transitions, so the viewer feels the natural passage of time.",
+      "order": 4
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/32j8g3.png",
+      "name": "Hug/Kiss",
+      "prompt": "A warm, emotional scene of two people hugging each other. Their faces are visible and filled with joy, comfort, and love. Natural daylight, soft cinematic lighting, photorealistic style. The hug feels genuine, with arms wrapped naturally and close body posture. Background is softly blurred (bokeh) to highlight the characters. Ultra-realistic skin texture, natural hair, and detailed clothing folds. High-resolution, cinematic depth of field, intimate and heartwarming atmosphere.",
+      "order": 5
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/iuv1pi.png",
+      "name": "Transformation",
+      "prompt": "Turn the uploaded portrait into a MERMAID video. Identity lock: keep exact face from input photo (proportions, hairstyle, skin tone). Scene: underwater, sun rays shining through surface, volumetric god-rays, soft bubbles, drifting plankton. Character: mermaid with shimmering {{TAIL_COLOR}} tail, seashell-style top (modest), pearl necklace. Hair floats naturally with water currents. Motion ({{DURATION_SEC}}s): - gentle floating idle pose - slow head turn toward camera with subtle smile - one tail swish behind - small hand gesture, bubbles trailing stable, cinematic parallax. Lighting: teal/blue cinematic tones, caustics dancing on skin, premium HDR look. Style: photorealistic, clean, high-quality.",
+      "order": 6
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/zs59fo.png",
+      "name": "Studio",
+      "prompt": "Create a vertical portrait shot in 1080x1920 format, characterized by stark cinematic lighting, clean background, and a sharp focus on the subject. Style should be modern, crisp, and professional. Include subtle depth of field and realistic shadows to enhance 3D appearance.",
+      "order": 7
+    }
+  ]
+}
