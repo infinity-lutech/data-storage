@@ -1,0 +1,60 @@
+{
+  "styles": [
+    {
+      "thumbnail": "https://files.catbox.moe/99d761.png",
+      "category": "Flag Pattern",
+      "name": "UAE",
+      "prompt": "Transform the person’s clothing to a UAE-flag inspired design with green, white, red, and black colors. Add a UAE-flag umbrella to the subject’s hand. The background should feature a modern UAE cityscape, like Dubai’s skyline or the Burj Khalifa. person’s pose should be proud and confident, fitting the UAE's modern image. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/zaxcny.png",
+      "category": "Flag Pattern",
+      "name": "saudi",
+      "prompt": "Change the person’s clothing to a Saudi Arabia–flag inspired design with green fabric,white Shahada text, and the Saudi emblem. person should be holding a Saudi flag-themed umbrella with both hands in front of their body. Change the background to a Saudi Arabian landmark (desert, cityscape, or traditional architecture). Adjust the pose to a confident, proud stance with the umbrella. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/4qqk2u.png",
+      "category": "Flag Pattern",
+      "name": "Ethiopia",
+      "prompt": "Change the person’s clothing to an Ethiopia-flag inspired design with green, yellow, and red colors, and a flag-themed umbrella. person should hold the umbrella confidently, with the flag emblem incorporated in the design. The background should reflect Ethiopia’s culture, such as a traditional landscape or Addis Ababa cityscape. Adjust the pose to a proud, confident stance. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/lnk42t.png",
+      "category": "Flag Pattern",
+      "name": "Jordan",
+      "prompt": "Replace the person’s clothing with a Jordan-flag inspired outfit, with red, white, black, and green colors, and a flag-themed umbrella. person should confidently hold the umbrella, with the flag emblem visible. Change the background to a cultural or historical Jordanian setting, like Petra or Amman city. Pose the subject naturally, evoking pride. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/rey7ws.png",
+      "category": "Flag Pattern",
+      "name": "USA",
+      "prompt": "Transform the subject’s outfit and umbrella into a modern USA-flag style while keeping the face, body, pose, and background unchanged. Add a photorealistic long-sleeve top with blue stars above and red-white stripes below. Replace the umbrella with a red, white, and blue USA-flag umbrella. Maintain natural lighting, fabric texture, shadows, and realism.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/0ci459.png",
+      "category": "Flag Pattern",
+      "name": "Brazil",
+      "prompt": "Change the person’s clothing to a Brazil-flag themed design with green, yellow, and blue, and a flag-themed umbrella. person should hold the umbrella proudly, with the flag’s emblem displayed. Set the background to a vibrant Brazilian setting, such as Rio de Janeiro or the Amazon. Pose the subject in a relaxed, proud stance. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/pqclg8.png",
+      "category": "Flag Pattern",
+      "name": "Mexico",
+      "prompt": "Transform the person’s clothing to a Mexico-flag themed design, with green, white, and red, and a flag-themed umbrella. person should hold the umbrella proudly, with the eagle and snake emblem incorporated. The background should reflect a Mexican cultural scene, such as a traditional fiesta or Mexico City. Adjust the subject’s pose to a confident, cultural stance. Keep the person’s face and hair the same.",
+      "order": 1
+    },
+    {
+      "thumbnail": "https://files.catbox.moe/x22zm5.png",
+      "category": "Flag Pattern",
+      "name": "India",
+      "prompt": "Replace the person’s clothing with an India-flag inspired design with saffron, white, green, and the Ashoka Chakra in blue, and a flag-themed umbrella. person should confidently hold the umbrella. The background should feature a cultural Indian landmark, such as the Taj Mahal or a vibrant Indian street. Pose the subject in a proud, respectful stance. Keep the person’s face and hair the same.",
+      "order": 1
+    }
+  ]
+}
