@@ -1,0 +1,70 @@
+{
+  "styles": [
+    {
+      "thumbnail": "http://139.59.5.225/VideoMaker/uploads/thumbs/6746bb46e2454c4ab1806011fd3ab20b.webp",
+      "reel": "http://139.59.5.225/VideoMaker/uploads/videos/7aa78d155fe2442d9d7d679460dab27f.mp4",
+      "catogery": "Trending",
+      "duration": "08.00",
+      "name": "Foggy Jungle",
+      "config": {
+        "positivePrompt": "A hyper-realistic, cinematic video sequence of a person [running through a dense, foggy jungle path at dusk]. The person is wearing the same clothes as the reference image and has an expression of [intense fear and determination]. The scene should feature [fiery torches] lighting the path and [shadowy figures] in the background, giving the impression they are being chased. Dynamic camera work, 4K resolution, epic blockbuster movie style. Don't change the face.",
+        "frameNumber": 101,
+        "frameRate": 20,
+        "model": "inhouse",
+        "mode": "i2v",
+        "raw": true
+      },
+      "order": 69
+    },
+    {
+      "thumbnail": "http://139.59.5.225/VideoMaker/uploads/thumbs/c5847c104781456f8cce466264e462a4.webp",
+      "reel": "http://139.59.5.225/VideoMaker/uploads/videos/8139b220c1574139bc573a0b1d61059c.mp4",
+      "catogery": "Trending",
+      "duration": "08.00",
+      "name": "Drone Shot",
+      "config": {
+        "positivePrompt": "Create a cinematic drone-style video starting from a close-up of the person standing. Begin with a smooth slow-motion push-in on the subject, highlighting his face, outfit, and posture. Then gradually pull the camera back and rise upward into a wide aerial shot. Reveal the naturally based on the image such as the nearby wall, ground, and background area visible in the photo. Maintain natural lighting, soft depth of field, and vibrant outdoor colors. Add subtle camera stabilization, realistic shadows, and gentle wind movement in the leaves and clothes. The final look should feel like a professional drone reveal shot, smooth, detailed, and cinematic.",
+        "frameNumber": 101,
+        "frameRate": 20,
+        "model": "inhouse",
+        "mode": "i2v",
+        "raw": true
+      },
+      "order": 69
+    },
+    {
+      "thumbnail": "http://139.59.5.225/VideoMaker/uploads/thumbs/52660620f39f4650a2de21fb8319c814.webp",
+      "reel": "http://139.59.5.225/VideoMaker/uploads/videos/634c6ffd487c427b8024c94244f0bb35.mp4",
+      "catogery": "Trending",
+      "duration": "08.00",
+      "name": "Rain",
+      "config": {
+        "positivePrompt": "a cinematic side-profile portrait of the person from the uploaded image standing in heavy rainfall at night. The subject should be looking slightly upwards with eyes closed, wearing a wet white shirt. Rain droplets should be visible falling around and bouncing off the face and hair. Lighting should be dramatic and from the side, with a cool bluish tone highlighting the raindrops and wet texture. Background should be blurred and dark to make the subject the main focus. Ultra realistic, high quality, 8K resolution, cinematic lighting, moody atmosphere, professional photography style.",
+        "negativePrompt": "worst quality, low quality",
+        "frameNumber": 101,
+        "frameRate": 20,
+        "model": "inhouse",
+        "mode": "i2v",
+        "raw": true
+      },
+      "order": 1
+    },
+    {
+      "thumbnail": "http://139.59.5.225/VideoMaker/uploads/thumbs/d75281fb97cb446fbd4c45e92386dd55.webp",
+      "reel": "http://139.59.5.225/VideoMaker/uploads/videos/4e84ce8559bc4b498b72c2cf073e5934.mp4",
+      "catogery": "Trending",
+      "duration": "08.00",
+      "name": "Lipsync",
+      "config": {
+        "positivePrompt": "Generate a video from the given portrait photo. The character must lip-sync naturally and accurately to the audio of “You’re My Heart, You’re My Soul” by Modern Talking. Keep the original identity, facial features, hairstyle, clothing, and background exactly as in the input image. Mouth movements must match the lyrics and rhythm of the song. Add subtle facial micro-expressions, natural blinking, and slight head tilts for realism. Video style: talking-head, static portrait, clean studio look.",
+        "negativePrompt": "worst quality, low quality",
+        "frameNumber": 101,
+        "frameRate": 20,
+        "model": "inhouse",
+        "mode": "i2v",
+        "raw": true
+      },
+      "order": 2
+    }
+  ]
+}
