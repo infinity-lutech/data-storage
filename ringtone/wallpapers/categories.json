@@ -90,7 +90,7 @@
         "id": "10",
         "isLock": false
     },
-{
+    {
         "createdAt": 1689582242,
         "name": "Anime",
         "slug_url": "anime-wallpaper",
@@ -98,5 +98,23 @@
         "number": 30,
         "id": "11",
         "isLock": true
+    },
+    {
+        "createdAt": 1689582242,
+        "name": "Silly Smiley",
+        "slug_url": "silly-wallpaper",
+        "imagePreview": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg",
+        "number": 30,
+        "id": "12",
+        "isLock": false
+    },
+    {
+        "createdAt": 1689582242,
+        "name": "Christmas",
+        "slug_url": "christmas-wallpaper",
+        "imagePreview": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg",
+        "number": 30,
+        "id": "13",
+        "isLock": false
     }
 ]
