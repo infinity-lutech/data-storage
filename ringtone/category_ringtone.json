@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Hit 2023",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/hit.png",
+        "number": 5,
+        "idCategory": 1,
+        "isLock": false
+    },
+    {
+        "title": "Happy sound",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/happy.png",
+        "number": 10,
+        "idCategory": 2,
+        "isLock": false
+    },
+    {
+        "title": "Favorite and Popular",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/fav.png",
+        "number": 5,
+        "idCategory": 3,
+        "isLock": false
+    },
+    {
+        "title": "Morning",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/morning.png",
+        "number": 15,
+        "idCategory": 4,
+        "isLock": false
+    },
+    {
+        "title": "Day off",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/dayoff.png",
+        "number": 4,
+        "idCategory": 5,
+        "isLock": false
+    },
+    {
+        "title": "iPhone Ringtones",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/iphone.png",
+        "number": 4,
+        "idCategory": 6,
+        "isLock": false
+    },
+    {
+        "title": "Healing Music",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/healing.png",
+        "number": 4,
+        "idCategory": 7,
+        "isLock": false
+    },
+    {
+        "title": "Greeting the new day",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/greeting.png",
+        "number": 5,
+        "idCategory": 8,
+        "isLock": false
+    },
+    {
+        "title": "Chillout lougne",
+        "pro": false,
+        "image": "https://storage.lutech.vn/app/ringtone/chill.png",
+        "number": 4,
+        "idCategory": 9,
+        "isLock": false
+    }
+]
