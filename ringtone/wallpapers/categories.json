@@ -6,7 +6,7 @@
         "imagePreview": "https://i.pinimg.com/736x/65/7f/c1/657fc13c443d6b2acbc021838b5dd876.jpg",
         "number": 30,
         "id": "1",
-        "isLock": true
+        "isLock": false
     },
     {
         "createdAt": 1689582602,
@@ -60,7 +60,7 @@
         "imagePreview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZKeHl3GUPpuIqre_QlQ_LWIivvmJvxbojGw&usqp=CAU",
         "number": 30,
         "id": "7",
-        "isLock": true
+        "isLock": false
     },
     {
         "createdAt": 1689582302,
@@ -97,7 +97,7 @@
         "imagePreview": "https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg",
         "number": 30,
         "id": "11",
-        "isLock": true
+        "isLock": false
     },
     {
         "createdAt": 1689582242,
