@@ -3425,7 +3425,7 @@
         ]
     },
     {
-        "ringtone_id": "z90110cf3-48fb-822a-82f5",
+        "ringtone_id": "90110cf3-48fb-822a-82f5",
         "cate_name": {
             "ar": "رومانسية وحب",
             "bg": "Любов и романтика",
@@ -3712,6 +3712,68 @@
             {
                 "ringtone_id": "Solo",
                 "name": "Solo",
+                "duration": "39"
+            }
+        ]
+    },
+
+    {
+        "ringtone_id": "zf0110cf3-48fb-822a-NewYear",
+        "cate_name": {
+            "ar": "رأس السنة",
+            "bg": "Нова година",
+            "cs": "Nový rok",
+            "da": "Nytår",
+            "de": "Neujahr",
+            "el": "Πρωτοχρονιά",
+            "en": "New Year",
+            "es": "Año Nuevo",
+            "fi": "Uusivuosi",
+            "fr": "Nouvel An",
+            "hi": "नया साल",
+            "hr": "Nova godina",
+            "hu": "Újév",
+            "it": "Capodanno",
+            "iw": "ראש השנה האזרחית",
+            "ja": "新年",
+            "ko": "새해",
+            "ms": "Tahun Baru",
+            "nb": "Nyttår",
+            "nl": "Nieuwjaar",
+            "pl": "Nowy Rok",
+            "pt": "Ano Novo",
+            "ro": "Anul Nou",
+            "ru": "Новый год",
+            "sk": "Nový rok",
+            "sr": "Nova godina",
+            "sv": "Nyår",
+            "th": "วันปีใหม่",
+            "tr": "Yeni Yıl",
+            "uk": "Новий рік",
+            "vi": "Năm mới"
+        },
+        "number_of_ringtones": "4",
+        "isFeatured": false,
+        "isMostPopular": true,
+        "contents": [
+            {
+                "ringtone_id": "Bad_Boy",
+                "name": "New Year",
+                "duration": "52"
+            },
+            {
+                "ringtone_id": "Bbibbi",
+                "name": "Happy New Year",
+                "duration": "33"
+            },
+            {
+                "ringtone_id": "Call_Me_Baby",
+                "name": "Countdown",
+                "duration": "39"
+            },
+            {
+                "ringtone_id": "Three_two_one",
+                "name": "3..2..1",
                 "duration": "39"
             }
         ]
