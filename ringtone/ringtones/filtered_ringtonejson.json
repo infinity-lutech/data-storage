@@ -2361,7 +2361,7 @@
         ]
     },
     {
-        "ringtone_id": "105dbc9c-0783-f9b3-b122",
+        "ringtone_id": "z105dbc9c-0783-f9b3-b122",
         "cate_name": {
             "ar": "تنبيهات رسائل عيد الميلاد",
             "bg": "Коледни известия за съобщения",
@@ -3757,24 +3757,24 @@
         "isMostPopular": true,
         "contents": [
             {
-                "ringtone_id": "Bad_Boy",
+                "ringtone_id": "New_Year",
                 "name": "New Year",
-                "duration": "52"
+                "duration": "59"
             },
             {
-                "ringtone_id": "Bbibbi",
+                "ringtone_id": "Happy_New_Year",
                 "name": "Happy New Year",
-                "duration": "33"
+                "duration": "59"
             },
             {
-                "ringtone_id": "Call_Me_Baby",
+                "ringtone_id": "Countdown",
                 "name": "Countdown",
-                "duration": "39"
+                "duration": "13"
             },
             {
                 "ringtone_id": "Three_two_one",
                 "name": "3..2..1",
-                "duration": "39"
+                "duration": "43"
             }
         ]
     }
