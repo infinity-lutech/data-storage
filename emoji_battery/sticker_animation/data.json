@@ -27,6 +27,33 @@
       "fileUrl": "asset://dot.json",
       "thumbnailUrl": null,
       "version": 1
-    }
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "category": "emoji",
+      "type": "lottie",
+      "fileUrl": "asset://star.json",
+      "thumbnailUrl": null,
+      "version": 1
+    },,
+    {
+      "id": "star2",
+      "name": "Star",
+      "category": "emoji",
+      "type": "lottie",
+      "fileUrl": "asset://star.json",
+      "thumbnailUrl": null,
+      "version": 1
+    },,
+    {
+      "id": "star3",
+      "name": "Star",
+      "category": "emoji",
+      "type": "lottie",
+      "fileUrl": "asset://star.json",
+      "thumbnailUrl": null,
+      "version": 1
+    },
   ]
 }
